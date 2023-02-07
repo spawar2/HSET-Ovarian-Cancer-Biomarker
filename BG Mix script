@@ -1,0 +1,59 @@
+library(BGmix)
+data(ybar, ss)
+outdir <- BGmix(ybar, ss, nreps = c(3, 2), niter = 1000, nburn = 1000)
+params <- ccParams(file = outdir)
+plotBasic(params, ybar, ss)
+x11()
+par(mfrow = c(1, 2))
+fdr <- calcFDR(params)
+plotFDR(fdr)
+
+write.table(tpp.res, file = "foo.txt")
+to.write = file("C:/binfile.dat", "wb")
+
+nreps <- c(3, 2)
+outdir2 <- BGmix(ybar, ss, nreps = nreps, jstar = -1, niter = 1000, nburn = 1000)
+params2 <- ccParams(outdir2)
+res2 <- ccTrace(outdir2)
+tpp.res <- TailPP(res2, nreps = nreps, params2, p.cut = 0.7, plots = F)
+
+FDR.res <- FDRforTailPP(tpp.res$tpp, a1 = params2$maa[1], a2 = params2$maa[2], n.rep1 = nreps[1], n.rep2 = nreps[2], p.cut = 0.8)
+
+pi0 <- EstimatePi0(tpp.res$tpp, tpp.res$pp0)
+
+par(mfrow = c(1, 2))
+histTailPP(tpp.res)
+FDRplotTailPP(tpp.res)
+
+
+tpp.res[1,]
+
+
+
+pred <- ccPred(file = outdir)
+par(mfrow = c(1, 2))
+hist(pred$pval.ss.mix[, 1])
+hist(pred$pval.ss.mix[, 2])
+par(mfrow = c(2, 3))
+plotPredChecks(pred$pval.ybar.mix2, params$pc, probz = 0.05)
+
+
+
+
+
+
+params <- ccParams(outdir)
+plotBasic(params,ybar,ss)
+
+fdr <- calcFDR(params)
+par(mfrow=c(1,2))
+plotFDR(fdr)
+
+pred <- ccPred(outdir,q.trace=TRUE)
+plotPredChecks(pred$pval.ybar.mix2,params$pc,probz=0.05)
+
+
+
+summaryTailPP <- function(tpp.res, fdr=c(0.01, 0.05)){ng = rep(NA, length(fdr))pg = rep(NA, length(fdr))for(k in 1:length(fdr)){ng[k] <- sum(tpp.res$FDR <= fdr[k], na.rm=T) pg[k] <- min(tpp.res$tpp[tpp.res$FDR <= fdr[k] & !is.na(tpp.res$FDR)])}output = data.frame(FDR= paste(round(fdr*100,1), "%", sep=""), Tailpp.cutoff=pg, Number.DEgenes = ng)return(output)}
+
+summaryTailPP <- function(tpp.res, fdr.cutoff =c(0.01, 0.05)){ng = rep(NA, length(fdr.cutoff))pg = rep(NA, length(fdr.cutoff))for(k in 1:length(fdr.cutoff)){ng[k] <- sum(tpp.res$FDR <= fdr.cutoff[k], na.rm=T) pg[k] <- min(tpp.res$tpp[tpp.res$FDR <= fdr.cutoff[k] & !is.na(tpp.res$FDR)])}output = data.frame(FDR.cutoff = paste(round(fdr.cutoff*100,1), "%", sep=""), Tailpp.cutoff=pg, Number.DEgenes = ng)return(output)}
