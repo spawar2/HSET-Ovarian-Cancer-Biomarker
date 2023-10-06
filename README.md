@@ -6,3 +6,5 @@ Poster: https://www.claflin-computation.com/lab-journey?pgid=ktmii98q-64f1ff2e-d
 
 2nd International Conference on Genomics (ICG), Sacremento, California, USA, September 2013. Topic: ‘Analyzing Expression Pattern’s and Correlation’s for HSET, Survivin & Ki67 genes in ER, PR & HER2 Negative Breast Cancer Patient’s’, by Pawar S.D, Vaishali Phannu, and Ritu Aneja.
 https://icg.bio/
+
+Georgia State University, Biology Graduate Student Association (BGSA), 2nd International Conference on Genomics (ICG), Sacramento, California, USA, September 2013. Github [*2019: 13][**12]
