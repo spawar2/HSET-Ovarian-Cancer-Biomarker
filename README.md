@@ -1,4 +1,4 @@
-# HSET-Ovarian-Cancer-Biomarker
+# HSET-Ovarian-Cancer-Biomarker collaboration with Dr. Aneja, Georgia State University https://biomedical.gsu.edu/ritu/
 [R: BGmix]
 [Paper Link:](https://www.ncbi.nlm.nih.gov/pubmed/25028599)
 [Poster:](https://www.claflin-computation.com/lab-journey?pgid=ktmii98q-64f1ff2e-dfef-4d26-82be-34353a6dbd79)
