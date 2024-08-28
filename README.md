@@ -8,6 +8,6 @@ BioMed Central BMC Journal of Ovarian Research. IF=6.1. [Paper Link:](https://ww
 
 [2nd International Conference on Genomics (ICG), Sacremento, California, USA, September 2013. Topic: ‘Analyzing Expression Pattern’s and Correlation’s for HSET, Survivin & Ki67 genes in ER, PR & HER2 Negative Breast Cancer Patient’s’, by Pawar S.D, Vaishali Phannu, and Ritu Aneja.](https://icg.bio/)
 
-Georgia State University, Biology Graduate Student Association (BGSA), https://sites.gsu.edu/bgsa/, 2nd International Conference on Genomics (ICG), Sacramento, California, USA, September 2013. Github [*2019: 13][**12].
+Georgia State University, Biology Graduate Student Association (BGSA), https://sites.gsu.edu/bgsa/, 2nd International Conference on Genomics (ICG), Sacramento, California, USA, September 2013. Github. [*2019: 13],[**12].
 
 <img width="153" alt="HSET" src="https://github.com/spawar2/HSET-Ovarian-Cancer-Biomarker/assets/25118302/8c538cc5-7b9c-4074-973a-f7a451042a60">
