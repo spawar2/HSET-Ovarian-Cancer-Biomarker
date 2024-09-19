@@ -11,3 +11,5 @@ BioMed Central BMC Journal of Ovarian Research. IF=6.1. [Paper Link:](https://ww
 Georgia State University, Biology Graduate Student Association (BGSA), https://sites.gsu.edu/bgsa/, 2nd International Conference on Genomics (ICG), Sacramento, California, USA, September 2013. Github. [*2019: 13],[**12].
 
 <img width="153" alt="HSET" src="https://github.com/spawar2/HSET-Ovarian-Cancer-Biomarker/assets/25118302/8c538cc5-7b9c-4074-973a-f7a451042a60">
+
+mas.5 script: Ovarian Microarray data read, mas5 multi array Normalization, Fold change analysis.
