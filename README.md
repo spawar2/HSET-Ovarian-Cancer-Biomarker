@@ -1,4 +1,4 @@
-# HSET-Ovarian-Cancer-Biomarker collaboration with Dr. Aneja, Georgia State University, Atlanta, USA. https://biomedical.gsu.edu/ritu/
+# HSET-Ovarian-Cancer-Biomarker collaboration with Dr. Aneja, Georgia State University, Atlanta, United States of America (USA). https://biomedical.gsu.edu/ritu/
 [R: BGmix].
 BioMed Central BMC Journal of Ovarian Research. IF=6.1. [Paper Link:](https://www.ncbi.nlm.nih.gov/pubmed/25028599)
 [Poster:](https://www.claflin-computation.com/lab-journey?pgid=ktmii98q-64f1ff2e-dfef-4d26-82be-34353a6dbd79)
@@ -6,7 +6,7 @@ BioMed Central BMC Journal of Ovarian Research. IF=6.1. [Paper Link:](https://ww
 <img width="397" alt="ICG" src="https://github.com/spawar2/HSET-Ovarian-Cancer-Biomarker/assets/25118302/81de5df7-021b-4b7e-97ba-fc58cc9f342a">
 <img width="359" alt="Ovarian" src="https://github.com/spawar2/HSET-Ovarian-Cancer-Biomarker/assets/25118302/6cfb692b-f6cc-4254-b4d9-61b1ccfecf6f">
 
-[2nd International Conference on Genomics (ICG), Sacremento, California, USA, September 2013. Topic: ‘Analyzing Expression Pattern’s and Correlation’s for HSET, Survivin & Ki67 genes in ER, PR & HER2 Negative Breast Cancer Patient’s’, by Pawar S.D, Vaishali Phannu, and Ritu Aneja.](https://icg.bio/)
+[2nd International Conference on Genomics (ICG), Sacremento, California, USA, 10 September, 2013. Topic: ‘Analyzing Expression Pattern’s and Correlation’s for HSET, Survivin & Ki67 genes in ER, PR & HER2 Negative Breast Cancer Patient’s’, by Pawar S.D, Vaishali Phannu, and Ritu Aneja.](https://icg.bio/)
 
 Georgia State University, Biology Graduate Student Association (BGSA), https://sites.gsu.edu/bgsa/, 2nd International Conference on Genomics (ICG), Sacramento, California, USA, September 2013. Github. [*2019: 13],[**12].
 
