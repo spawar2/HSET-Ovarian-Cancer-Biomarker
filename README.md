@@ -1,4 +1,4 @@
-# HSET-Ovarian-Cancer-Biomarker collaboration with Dr. Aneja, Georgia State University, Atlanta, United States of America (USA). https://biomedical.gsu.edu/ritu/
+# HSET-Ovarian-Cancer-Biomarker collaboration with Dr. Ritu Aneja, Georgia State University, Atlanta, United States of America (USA). https://biomedical.gsu.edu/ritu/
 [R: BGmix]. Date created/updated: December, 9, 2024.
 BioMed Central BMC Journal of Ovarian Research. IF=6.1. [Paper Link:](https://www.ncbi.nlm.nih.gov/pubmed/25028599)
 [Poster:](https://www.claflin-computation.com/lab-journey?pgid=ktmii98q-64f1ff2e-dfef-4d26-82be-34353a6dbd79)
