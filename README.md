@@ -12,7 +12,8 @@ Georgia State University, Biology Graduate Student Association (BGSA), https://s
 https://www.cau.edu/ccrtd-cancer-center-members/
 A centrosome clustering protein, KIFC1, predicts aggressive disease course in serous ovarian adenocarcinomas, Mittal, Da Hoon Choi, Sergey Klimov, Shrikant Pawar, Ramneet Kaur, Anirban K. Mitra, Meenakshi V. Gupta, Ralph Sams, Guilherme Cantuaria, Publication: Elsevier: Gynecologic Oncology (Publication date: January 1), 1, 2, 3. Collaboration with Dr. Aneja, Georgia State University, Atlanta, USA. IF=5.4.Github, Article link, [Cited times: 46]^^^ DOI: 10.1186/s13048-016-0224-0, Volume: 17, Issue: 9, Pages.
 <img width="153" alt="HSET" src="https://github.com/spawar2/HSET-Ovarian-Cancer-Biomarker/assets/25118302/8c538cc5-7b9c-4074-973a-f7a451042a60">
-††
+††Travel award: Georgia State University, Biology Graduate Student Association (BGSA), Atlanta, USA, September 1, 2013. Github, [*2019: 13], [**12].
+https://icg.bio/ https://sites.gsu.edu/bgsa/
 †Corresponding author. ††First author. †††Second author. ††††Third author. †††††author.
 mas.5 script: Ovarian Microarray data read, mas5 multi array Normalization, Fold change analysis.
 selected function(getGEO, normalize.quantiles, merge, cluster_analysis, hclust, Kmeans, mas5, rowMeans, randomForest, survfit, chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table, BGmix, ccParams, TailPP, ccTrace, histTailPP, FDRplotTailPP, histccPred, plotFDR, plotPredChecks, exprSet).
