@@ -7,7 +7,7 @@ BioMed Central BMC Journal of Ovarian Research. IF=6.1. [Paper Link:](https://ww
 <img width="359" alt="Ovarian" src="https://github.com/spawar2/HSET-Ovarian-Cancer-Biomarker/assets/25118302/6cfb692b-f6cc-4254-b4d9-61b1ccfecf6f">
 
 [2nd International Conference on Genomics (ICG), Sacremento, California, USA, 10 September, 2013. Topic: ‘Analyzing Expression Pattern’s and Correlation’s for HSET, Survivin & Ki67 genes in ER, PR & HER2 Negative Breast Cancer Patient’s’, by Pawar S.D, Vaishali Phannu, and Ritu Aneja.](https://icg.bio/)
-
+^^^Georgia State University, College of Arts and Sciences, Department of Computer Science and Biology, Atlanta, USA. 
 Georgia State University, Biology Graduate Student Association (BGSA), https://sites.gsu.edu/bgsa/, 2nd International Conference on Genomics (ICG), Sacramento, California, USA, September 2013. Github. [*2019: 13],[**12].Dr. Nathan J. Bowen, The Center for Cancer Research and Therapeutic Development (CCRTD) at Clark Atlanta University, Georgia, USA.
 https://www.cau.edu/ccrtd-cancer-center-members/
 A centrosome clustering protein, KIFC1, predicts aggressive disease course in serous ovarian adenocarcinomas, Mittal, Da Hoon Choi, Sergey Klimov, Shrikant Pawar, Ramneet Kaur, Anirban K. Mitra, Meenakshi V. Gupta, Ralph Sams, Guilherme Cantuaria, Publication: Elsevier: Gynecologic Oncology (Publication date: January 1), 1, 2, 3. Collaboration with Dr. Aneja, Georgia State University, Atlanta, USA. IF=5.4.Github, Article link, [Cited times: 46]^^^ DOI: 10.1186/s13048-016-0224-0, Volume: 17, Issue: 9, Pages.
