@@ -17,3 +17,4 @@ https://icg.bio/ https://sites.gsu.edu/bgsa/
 †Corresponding author. ††First author. †††Second author. ††††Third author. †††††author.
 mas.5 script: Ovarian Microarray data read, mas5 multi array Normalization, Fold change analysis.
 selected function(getGEO, normalize.quantiles, merge, cluster_analysis, hclust, Kmeans, mas5, rowMeans, randomForest, survfit, chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table, BGmix, ccParams, TailPP, ccTrace, histTailPP, FDRplotTailPP, histccPred, plotFDR, plotPredChecks, exprSet).
+Associated Press Style
