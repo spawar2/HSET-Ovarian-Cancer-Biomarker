@@ -6,7 +6,8 @@ BioMed Central BMC Journal of Ovarian Research. IF=6.1. [Paper Link:](https://ww
 <img width="397" alt="ICG" src="https://github.com/spawar2/HSET-Ovarian-Cancer-Biomarker/assets/25118302/81de5df7-021b-4b7e-97ba-fc58cc9f342a">
 <img width="359" alt="Ovarian" src="https://github.com/spawar2/HSET-Ovarian-Cancer-Biomarker/assets/25118302/6cfb692b-f6cc-4254-b4d9-61b1ccfecf6f">
 Digital Object Identifier (DOI)=Online International Standard Book Number (ISBN).
-[2nd International Conference on Genomics (ICG), Sacremento, California, USA, 10 September, 2013. Topic: ‘Analyzing Expression Pattern’s and Correlation’s for HSET, Survivin & Ki67 genes in ER, PR & HER2 Negative Breast Cancer Patient’s’, by Pawar S.D, Vaishali Phannu, and Ritu Aneja.](https://icg.bio/)
+[2nd International Conference on Genomics (ICG), Sacremento, California, USA, 10 September, 2013. Topic: ‘Analyzing Expression Pattern’s and Correlation’s for HSET, Survivin & Ki67 genes in ER, PR & HER2 Negative Breast Cancer Patient’s’, by Pawar S.D, Vaishali Phannu, and Ritu Aneja.](https://icg.bio/) <img width="1452" height="745" alt="Screenshot 2026-05-20 at 2 02 27 AM" src="https://github.com/user-attachments/assets/39026b91-1130-4f33-8e8c-9fedf07c1630" />
+
 ^^^Georgia State University, College of Arts and Sciences, Department of Computer Science and Biology, Atlanta, USA. All Nature, BMC, and Frontiers Journal (Q1-level), others (Springer Genes and Genomics, Elsevier Journal of Theoretical Biology, Data in Brief, Wiley's Chemical Biology and Drug Design, etc.): Q2-Q3.
 Georgia State University, Biology Graduate Student Association (BGSA), https://sites.gsu.edu/bgsa/, 2nd International Conference on Genomics (ICG), Sacramento, California, USA, September 2013. Github. [*2019: 13],[**12].Dr. Nathan J. Bowen, The Center for Cancer Research and Therapeutic Development (CCRTD) at Clark Atlanta University, Georgia, USA.
 https://www.cau.edu/ccrtd-cancer-center-members/
